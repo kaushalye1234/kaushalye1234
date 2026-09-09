@@ -75,5 +75,5 @@ These are learning goals rather than claims of professional experience.
 
 - **Location:** Colombo, Sri Lanka
 - **GitHub:** [@kaushalye1234](https://github.com/kaushalye1234)
-- **LinkedIn:** [Chamindu Kaushalya Gunarathne](https://www.linkedin.com/in/chamindu-kaushalya-gunarathne-991829351/)
+- **LinkedIn:** [Chamindu Kaushalya](https://lnkd.in/p/gbiN_W8j)
 - **Email:** [chamindu2052@gmail.com](mailto:chamindu2052@gmail.com)
