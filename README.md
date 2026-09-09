@@ -8,15 +8,15 @@ My primary goal is a **DevOps / Cloud internship**, with Software Engineering an
 
 ## Featured engineering work
 
-### [Fashion Shaa POS](https://github.com/kaushalye1234/POS-project-2)
+### [Fashion Shaa POS](https://github.com/kaushalye1234/POS-)
 
-My flagship personal project: a POS and stock-management system deployed in a real retail shop.
+My flagship personal project: a POS and stock-management system developed for use in a real retail shop.
 
-- Cashier POS and store-management desktop applications
+- Cashier and operational management workflows
 - Inventory, sales, returns, customers, suppliers, and purchase orders
 - Barcode workflows, authentication, roles, reporting, backup, and restocking
-- Node.js / Express, React + TypeScript, Electron, MongoDB, and local SQLite
-- Automated testing with Jest, Playwright, and related tools
+- Node.js, Express, Electron, and MongoDB
+- Automated testing with Jest and Playwright
 
 I am continuing to improve its reliability, security, testing, deployment process, and operational documentation.
 
