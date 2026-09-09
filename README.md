@@ -1,50 +1,79 @@
-# Hi, I'm Kaushalye 👋
+# Hi, I'm Chamindu Kaushalya 👋
 
-Third-year Software Engineering / IT student at **SLIIT** (Sri Lanka Institute of Information Technology), focused on full-stack web and mobile development.
+**Software Engineering undergraduate at SLIIT | Aspiring DevOps / Cloud Engineer**
 
-I like building things end-to-end — from database schema to UI — and I'm currently deep in an AI-Powered Full-Stack Internship Program, picking up practical skills project by project.
+I'm a third-year Software Engineering undergraduate in Colombo, Sri Lanka. I build full-stack and backend systems and am developing practical skills in Linux, containers, CI/CD, cloud infrastructure, and automation.
 
----
+My primary goal is a **DevOps / Cloud internship**, with Software Engineering and Backend Engineering as complementary paths. I plan to begin internship applications after my semester ends around **November 2026**.
 
-### 🔭 Currently working on
-- 🤖 **AI Study Assistant** — a study-support tool built for SLIIT students, part of an AI-powered internship program
-- 🏬 **Store & Admin Console** — a two-desktop, local-network POS system for a clothing shop
-- 🚗 **Vehicle Service System** — a group project combining a full-stack app with Agentic AI (university coursework)
-- 🌐 **Personal Portfolio Website** — showcasing my projects and skills
+## Featured engineering work
 
-### 🧰 Tech I work with
+### [Fashion Shaa POS](https://github.com/kaushalye1234/POS-project-2)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![WSL](https://img.shields.io/badge/-WSL%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+My flagship personal project: a POS and stock-management system deployed in a real retail shop.
 
-### 📊 GitHub Stats
+- Cashier POS and store-management desktop applications
+- Inventory, sales, returns, customers, suppliers, and purchase orders
+- Barcode workflows, authentication, roles, reporting, backup, and restocking
+- Node.js / Express, React + TypeScript, Electron, MongoDB, and local SQLite
+- Automated testing with Jest, Playwright, and related tools
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushalye1234&show_icons=true&theme=default" alt="Kaushalye's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalye1234" alt="Kaushalye's GitHub streak" height="165"/>
-</p>
+I am continuing to improve its reliability, security, testing, deployment process, and operational documentation.
 
-### 🌱 What I'm learning right now
-- Agentic AI integration in full-stack apps
-- Building production-style systems in a team setting
-- Sharpening my portfolio for tech job applications
+### [Student Task Manager](https://github.com/kaushalye1234/Student_Task_Manager_System)
 
-### 📫 Connect with me
-- GitHub: [@kaushalye1234](https://github.com/kaushalye1234)
-- LinkedIn: https://www.linkedin.com/in/chamindu-kaushalya-gunarathne-991829351/
-- Portfolio: *add your portfolio URL here*
-- Email: chamindu2052@gmail.com
+A full-stack project used to practise software delivery and DevOps fundamentals.
 
----
-<p align="center"><i>Thanks for stopping by! ⭐ this repo if you find something useful.</i></p>
-# kaushalye1234
-# kaushalye1234
+- Spring Boot REST API and React + TypeScript frontend
+- JWT authentication, MySQL, validation, and automated tests
+- Dockerfiles and Docker Compose
+- Separate backend and frontend GitHub Actions workflows
+- Swagger / OpenAPI documentation and environment-based configuration
+
+### [CampusFind LK](https://github.com/kaushalye1234/Mini-Hackathon)
+
+A team-built lost-and-found platform for Sri Lankan university students using React, Node.js, Express, MongoDB, JWT, Cloudinary, search, authorization, and messaging.
+
+### [SkillConnect](https://github.com/kaushalye1234/SkillConnect)
+
+A group marketplace connecting customers with workers such as plumbers, cleaners, and electricians. I contributed the booking functionality, including related backend logic and tests.
+
+## Current technical skills
+
+| Area | Technologies |
+|---|---|
+| Backend | Spring Boot, Node.js, Express, REST APIs, JWT, .NET |
+| Frontend and mobile | React, TypeScript, JavaScript, React Native |
+| Databases | MySQL, PostgreSQL, MongoDB, SQLite, SQL |
+| DevOps foundations | Git, Docker, Docker Compose, Linux, GitHub Actions |
+| Programming and scripting | Java, C/C++, Python fundamentals, Bash fundamentals |
+| Testing and API tools | JUnit, Mockito, Jest, Playwright, Vitest, Postman |
+
+## Currently learning
+
+I am building hands-on knowledge in:
+
+- AWS fundamentals: IAM, EC2, VPC, Security Groups, S3, and CloudWatch
+- Networking and Linux administration
+- Bash and Python automation
+- Terraform and Infrastructure as Code
+- Kubernetes and Helm
+- Prometheus, Grafana, logging, and alerting
+- CI/CD security, dependency scanning, and container scanning
+
+These are learning goals rather than claims of professional experience.
+
+## Current portfolio direction
+
+- Improve Fashion Shaa as evidence for Software Engineering, Backend, Cloud, and DevOps roles
+- Extend Student Task Manager with security scanning and deployment automation
+- Build a focused AWS and Terraform infrastructure lab
+- Create a Python/Bash CloudOps automation toolkit
+- Add container orchestration and observability projects after strengthening the foundations
+
+## Connect
+
+- **Location:** Colombo, Sri Lanka
+- **GitHub:** [@kaushalye1234](https://github.com/kaushalye1234)
+- **LinkedIn:** [Chamindu Kaushalya Gunarathne](https://www.linkedin.com/in/chamindu-kaushalya-gunarathne-991829351/)
+- **Email:** [chamindu2052@gmail.com](mailto:chamindu2052@gmail.com)
